@@ -10,7 +10,7 @@ D3 library was used to read in samples.json from the url provided in the module.
 * Use otu_ids as the labels for the bar chart.
 * Use otu_labels as the hovertext for the chart.
 
-    2. create a buble chart that displays each sample
+2. create a buble chart that displays each sample
 
 * Use otu_ids for the x values.
 * Use sample_values for the y values.
