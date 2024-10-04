@@ -37,7 +37,7 @@ function buildCharts(sample) {
     let otu_labels = result.otu_labels;
     let sample_values = result.sample_values;
 
-    // Build a Bubble Chart
+    // Build a Bubble Charts 
     let bubbleTrace = {
       x: otu_ids,
       y: sample_values,
